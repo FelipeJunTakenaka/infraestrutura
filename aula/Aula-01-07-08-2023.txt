@@ -1,0 +1,29 @@
+#Objetivo da aula de hoje: 07/08/2023
+INÍCIO DA UC-5 (INFRAESTRUTURA DE REDES)
+
+Primeira etapa: Material de Infraestrutura
+Github: https://github.com/vaamonde/infraestrutura
+
+Segunda etapa.: Material de Cisco (Switch e Router)
+Github: https://github.com/vaamonde/ccna-v7-200-301
+
+Terceira etapa: Material na Rede
+T:\Publica\!!!!RobsonVaamonde\InfraestruturaDeRede
+
+Quarta etapa..: Se autenticar no Github com sua conta
+https://github.com/
+
+Quinta etapa..: Iniciar o Editor de Texto VSCode
+Pesquisa do Windows: Visual Studio Code
+
+Sexta etapa...: Iniciar o Cisco Packet Tracer
+Pesquisa do Windows: Cisco Packet Tracer
+SE AUTENTICAR COM SUA CONTA E SENHA DO NETACAD
+=======================================================
+
+DESAFIO NO GITHUB:
+
+PRIMEIRO: NO REPOSITÓRIO FORK DE INFRAESTRUTURA
+CRIAR UM DIRETÓRIO CHAMADO: PacketTracer
+
+SEGUNDO: DENTRO DESSE DIRETÓRIO: PacketTracer ADICIONAR O ARQUIVO PKT DA AULA DE HOJE TAMBÉM UM PRINT SCREEN DA SUA TOPOLOGIA.
